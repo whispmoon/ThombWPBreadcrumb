@@ -22,7 +22,7 @@ function the_breadcrumb()
         <meta itemprop="position" content="1" />
         </li>';
 
-        if (is_category() || is_single() && is_post_type_archive()) {
+        if (is_category() || is_single()) {
             $category = get_the_category();
             echo '<li class="breadcrumb-item" itemprop="itemListElement" itemscope
             itemtype="https://schema.org/ListItem">
