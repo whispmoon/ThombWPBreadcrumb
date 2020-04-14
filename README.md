@@ -3,7 +3,7 @@ Wordpress breadcrumb
 
 Code pour avoir un fil d'ariane avec Bootstrap 4 et SEO frendly avec les microformat (schema.org)
 
-1 - Mettre le code du fichier ThombWordpressBreadcrumb.php dans le fichier functions.php du fichier ThombWordpressBreadcrumb.php
+1 - Mettre le code du fichier ThombWordpressBreadcrumb.php dans le fichier functions.php
 
 2 - Dans votre fichier header.php faire l'appel avec la fonction
 
